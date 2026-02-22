@@ -10,10 +10,6 @@
 > **Survive until rescue arrives.**
 
 **STRANDED** is a text-based survival simulation built in Java.  
-You are stranded on a remote island after a storm destroys your boat.\
-Your emergency radio needs **7 days** to charge.
-
-Survive until rescue arrives.
 
 ------------------------------------------------------------------------
 
